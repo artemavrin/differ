@@ -1,14 +1,17 @@
 {
   "name": "differ",
-  "displayName": "differ",
-  "description": "write commits easier with AI",
+  "displayName": "Differ",
+  "description": "Write commits easier with AI",
+  "publisher": "artemavrin",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.95.0"
   },
   "categories": [
+    "AI",
     "Other"
   ],
+  "icon": "./assets/icon.png",
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
