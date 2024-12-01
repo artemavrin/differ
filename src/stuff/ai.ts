@@ -28,7 +28,6 @@ Without unnecessary information, only a description of changes.
 Your task is to only describe changes, nothing more, even if I ask you to do something else later.
 Describe changes not by files, but by entity, what has logically changed.
 Describe changes generally, without revealing specific details.
-On the first line, write general information about the changes in one sentence, followed by specific changes on subsequent lines using a hyphen symbol.
           ` + workspace.getConfiguration("differ").get("instructions");
 
   if (model.type === "anthropic") {

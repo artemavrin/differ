@@ -1,5 +1,10 @@
 # Differ
 
+[![Version](https://img.shields.io/visual-studio-marketplace/v/artemavrin.differ)](https://marketplace.visualstudio.com/items?itemName=artemavrin.differ)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/artemavrin.differ)](https://marketplace.visualstudio.com/items?itemName=artemavrin.differ)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/artemavrin.differ)](https://marketplace.visualstudio.com/items?itemName=artemavrin.differ)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Differ is a VS Code extension that helps developers create better commit messages using artificial intelligence.
 
 

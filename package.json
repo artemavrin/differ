@@ -11,7 +11,7 @@
     "AI",
     "Other"
   ],
-  "icon": "./assets/icon.png",
+  "icon": "/images/icon.png",
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
@@ -48,7 +48,7 @@
       "properties": {
         "differ.instructions": {
           "type": "string",
-          "default": "Use English language",
+          "default": "Use English language. On the first line, write general information about the changes in one sentence, followed by specific changes on subsequent lines using a hyphen symbol.",
           "description": "Additional instructions to commit message generation",
           "editPresentation": "multilineText"
         }
@@ -83,5 +83,25 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.32.1",
     "openai": "^4.73.1"
-  }
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artemavrin/differ"
+  },
+  "bugs": {
+    "url": "https://github.com/artemavrin/differ/issues"
+  },
+  "homepage": "https://github.com/artemavrin/differ#readme",
+  "keywords": [
+    "git",
+    "commit",
+    "ai",
+    "openai",
+    "anthropic",
+    "claude",
+    "xai",
+    "commit-message",
+    "git-tools"
+  ]
 }
