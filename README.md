@@ -7,6 +7,8 @@
 
 Differ is a VS Code extension that helps developers create better commit messages using artificial intelligence.
 
+![demo](https://github.com/user-attachments/assets/dfcf7991-40d8-484a-8301-78030f1f2437)
+
 
 ## Features
 
